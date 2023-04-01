@@ -3,4 +3,4 @@ bibmaker makes the bibtex database from the available user input. It is convenie
 # Pre-requisite
 Usage of bibtex database in LaTeX typesetting. Otherwise none.
 # About
-Author: Sarun Pallian Murikkoli
+Author: Sarun Pallian Murikkoli (c) 2023
